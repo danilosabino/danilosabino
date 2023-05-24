@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danilosabino
 - 👀 I’m interested in Image processing...
 - 🌱 I’m currently learning Python + OpenCV...
-- 💞️ I’m looking to collaborate on Image Proceing =P
+- 💞️ I’m looking to collaborate on Image Processing =P
 - 📫 How to reach me ... @vizziam
 
 <!---
